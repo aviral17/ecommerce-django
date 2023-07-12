@@ -1,0 +1,3 @@
+#TODO: Go to settings.py in project and register the app (django apps like ecommerceapp) inside INSTALLED_APPS ----->  'ecommerceapp' 
+
+#TODO: Inside urls.py of project ------> include("ecommerceapp.urls") and create urls.py in ecommerceapp 

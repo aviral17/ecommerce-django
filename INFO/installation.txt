@@ -1,0 +1,11 @@
+TODO: Install Django Project  -------->  {{ django-admin startproject ecommerce (and add ./ if want ecommerce instead of ecommerce/ecommerce for current folder) }
+
+TODO: Install app after the project --------> python manage.py startapp ecommerceapp
+
+TODO: Register templates folder inside settings.py of project inside TEMPLATES = [] ---> 'DIRS': ["templates"],
+
+      You may also change Keyboard settings by going to keyboard shortcuts in left below settings of vs code
+
+
+
+
