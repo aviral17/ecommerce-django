@@ -1,3 +1,4 @@
+# update it as per latest changes
 from django.apps import AppConfig
 
 
