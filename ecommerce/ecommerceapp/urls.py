@@ -1,4 +1,4 @@
-# update it as per current changes
+# updated as per current changes
 
 from django .urls import path
 from . import views
