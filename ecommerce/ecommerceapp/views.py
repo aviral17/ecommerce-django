@@ -1,4 +1,4 @@
-# make appropriate changes
+# updated as per latest changes
 
 from django.shortcuts import render
 
